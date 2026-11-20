@@ -1,0 +1,3 @@
+123456789,lalit,Pune,190000.0,lalit123@gmail.com,hsjus8a,8298739
+7287763,Ram,PCMC,19009.0,Ram123@gmail.com,hsyy5s,7829893722
+380702932892,Vaibhav mali,Pune,10000.0,vai123@gmail.com,STUAS7783D,9088437854
